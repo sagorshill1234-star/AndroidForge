@@ -1,6 +1,6 @@
 
 name: Build Android APK
-
+[![Build Android APK](https://github.com/sagorshill1234-star/AndroidForge/actions/workflows/build-android-apk.yml/badge.svg)](https://github.com/sagorshill1234-star/AndroidForge/actions/workflows/build-android-apk.yml)
 on:
   workflow_dispatch:
     inputs:
